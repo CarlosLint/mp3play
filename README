@@ -1,9 +1,11 @@
-WavPlay, by Carlos Lint <carlos.lint@gmail.com>
+Mp3Play, by Carlos Lint <carlos.lint@gmail.com>
 
-WavPlay is a short program made to play ordinary .WAV files over ALSA (and
+Mp3Play is a short program made to play ordinary .mp3 files over ALSA (and
 Pulse wherever there's Pulse output under Alsa).
 
 All the alsa-related initialization was based off of libalsa's example as
 far as the author can remember.
 
+The mp3 is decoded by mpglib, which is mpg123's backend.
 
+This is a simple program to show how can you decode mp3 in Linux using C.
