@@ -1,0 +1,6 @@
+# exclude .wav files used for testing and backup files
+*.wav
+*.mp3
+*~
+# also exclude the binary
+mp3play

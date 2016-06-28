@@ -1,0 +1,4 @@
+This project is licensed under the MIT license, although it uses mpglib
+which is LGPL and has some licensing issues itself. The alleged _NO_LGPL_
+offender is an ALSA output driver which is not used by this program. (The
+program deals with ALSA directly instead of relying on the GPL driver.)
